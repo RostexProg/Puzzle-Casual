@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 13c8831e33c1da749807a71466faa605
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Agent Orange
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 76a21902d5f9f19468f97e3d9cfd9a9e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
